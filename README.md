@@ -35,7 +35,7 @@ Ensure these libraries are installed before compiling and running the code.
 1. Clone this repository inside a ros2 workspace:
 
    ```bash
-   git clone https://github.com/RaffaelePumpo/Quadrotor_Controller.git
+   git clone https://github.com/RaffaelePumpo/Quadrotor_Controller-AUVE.git
 2. Do a colbuild of the ros2 workspace
 3. launch file :
    ```bash
